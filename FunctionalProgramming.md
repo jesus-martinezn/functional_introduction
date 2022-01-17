@@ -50,6 +50,7 @@ Functional programming is a paradigm where programs are constructed by applying 
   - Usually strong-typed, helps reducing bugs and improves testing.
   - Programs are written at a higher level, and are therefore easier to comprehend.
   - Programs are stateless
+
 ---
 
 ## Drawbacks
@@ -80,7 +81,21 @@ Functional programming is a paradigm where programs are constructed by applying 
 
 ---
 
-## 
+## Kotlin - What is Kotlin
+Kotlin is an open-source statically typed programming language that targets the JVM, Android, JavaScript and Native.
+
+It’s developed by JetBrains. The project started in 2010 and was open source from very early on.
+
+The first official 1.0 release was in February 2016.
+
+---
+
+## Is Kotlin an object-oriented language or a functional one?
+
+Kotlin has both object-oriented and functional constructs.
+You can use it in both OO and FP styles, or mix elements of the two. With first-class support for features such as higher-order functions, function types and lambdas, Kotlin is a great choice if you’re doing or exploring functional programming.
+
+---
 
 
 # References

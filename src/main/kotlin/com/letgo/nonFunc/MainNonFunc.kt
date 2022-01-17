@@ -1,3 +1,5 @@
+package com.letgo.nonFunc
+
 class CreditCard(val name: String, val number: Int)
 class Coffee(val name: String, val price: Int)
 
@@ -14,7 +16,7 @@ class Cafe {
     }
 }
 
-fun main(args: Array<String>) {
+fun main() {
     println("Lets make a Café!")
 
     val mastercardGold = CreditCard("mastercard", 1234567891)
