@@ -107,4 +107,4 @@ You can use it in both OO and FP styles, or mix elements of the two. With first-
 - [https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)
 - [https://www.keycdn.com/blog/functional-programming](https://www.keycdn.com/blog/functional-programming)
 - [https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html](https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
-
+- [https://kotlinlang.org/docs/faq.html](https://kotlinlang.org/docs/faq.html)
