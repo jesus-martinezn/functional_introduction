@@ -1,3 +1,1 @@
-
-rootProject.name = "untitled"
-
+rootProject.name = "functional_introduction"
